@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\SimplemProject\bin\Debug\net7.0\SimplemProject.exe
+C:\Users\USER\source\repos\SimplemProject\bin\Debug\net7.0\SimplemProject.deps.json
+C:\Users\USER\source\repos\SimplemProject\bin\Debug\net7.0\SimplemProject.runtimeconfig.json
+C:\Users\USER\source\repos\SimplemProject\bin\Debug\net7.0\SimplemProject.dll
+C:\Users\USER\source\repos\SimplemProject\bin\Debug\net7.0\SimplemProject.pdb
+C:\Users\USER\source\repos\SimplemProject\obj\Debug\net7.0\SimplemProject.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\SimplemProject\obj\Debug\net7.0\SimplemProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\SimplemProject\obj\Debug\net7.0\SimplemProject.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SimplemProject\obj\Debug\net7.0\SimplemProject.AssemblyInfo.cs
+C:\Users\USER\source\repos\SimplemProject\obj\Debug\net7.0\SimplemProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SimplemProject\obj\Debug\net7.0\SimplemProject.dll
+C:\Users\USER\source\repos\SimplemProject\obj\Debug\net7.0\refint\SimplemProject.dll
+C:\Users\USER\source\repos\SimplemProject\obj\Debug\net7.0\SimplemProject.pdb
+C:\Users\USER\source\repos\SimplemProject\obj\Debug\net7.0\SimplemProject.genruntimeconfig.cache
+C:\Users\USER\source\repos\SimplemProject\obj\Debug\net7.0\ref\SimplemProject.dll
